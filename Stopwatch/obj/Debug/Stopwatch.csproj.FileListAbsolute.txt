@@ -1,0 +1,11 @@
+D:\CS\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+D:\CS\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+D:\CS\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+D:\CS\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+D:\CS\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+D:\CS\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+D:\CS\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+D:\CS\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
+D:\CS\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.frmApp.resources
+D:\CS\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.frmSetTime.resources
+D:\CS\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojAssemblyReference.cache
